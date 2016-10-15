@@ -1,4 +1,12 @@
-# Auth0Test
+# Auth0 + Angular CLI Example
+
+Using [Auth0](https://auth0.com) with an [angular-cli](https://github.com/angular/angular-cli)-generated project.
+
+See gist https://gist.github.com/keathmilligan/92004bfb15d63f6989eb3ca738bd951f for additional notes.
+
+
+_Be sure to edit src/app/auth.service.ts with your Auth0 client domain & ID_
+
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 
